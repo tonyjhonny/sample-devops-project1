@@ -1,8 +1,8 @@
 name:jagan
-class:10th class
+class:tenth class
 roalnumber:10x51y10
 school: SDB high school
 ===========================
 subjects: english, hindi,telugu,maths,science,social.
-========================================================
-extra circular activities : sports, painting
+extra caricular activities: Dancing ,sports,draings
+
