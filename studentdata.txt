@@ -5,3 +5,4 @@ school: SDB high school
 ===========================
 subjects: english, hindi,telugu,maths,science,social.
 extra caricular activities: Dancing ,sports,draings
+
