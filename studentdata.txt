@@ -1,5 +1,5 @@
 name:jagan
-class:10th class
+class:tenth class
 roalnumber:10x51y10
 school: SDB high school
 ===========================
