@@ -1,0 +1,4 @@
+name: SREC
+place:Nandyal
+affiliated to JNTU
+started year 2008
