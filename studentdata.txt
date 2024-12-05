@@ -5,4 +5,4 @@ school: SDB high school
 ===========================
 subjects: english, hindi,telugu,maths,science,social.
 ========================================================
-extra circular activities : sports
+extra circular activities : sports, painting
