@@ -4,3 +4,5 @@ roalnumber:10x51y10
 school: SDB high school
 ===========================
 subjects: english, hindi,telugu,maths,science,social.
+========================================================
+extra circular activities : sports
